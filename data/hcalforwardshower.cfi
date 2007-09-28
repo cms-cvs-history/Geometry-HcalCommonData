@@ -1,0 +1,8 @@
+es_source = XMLIdealGeometryESSource {
+   vstring geomXMLFiles = {
+       "Geometry/CMSCommonData/data/materials.xml",
+       "Geometry/HcalCommonData/data/hcalforwardmaterial.xml",
+       "Geometry/HcalCommonData/data/hcalforwardshower.xml"
+   }
+   string rootNodeName = "hcalforwardshower:World"
+}
