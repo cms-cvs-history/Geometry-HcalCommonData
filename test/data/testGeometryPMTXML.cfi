@@ -23,6 +23,7 @@ es_source = XMLIdealGeometryESSource {
        "Geometry/HcalCommonData/data/hcalforwardalgo.xml",
        "Geometry/HcalCommonData/data/hcalsenspm.xml",
        "Geometry/HcalSimData/data/CaloUtil.xml",
+       "Geometry/HcalSimData/data/hfpmt.xml",
        "Geometry/HcalSimData/data/HcalProdCuts.xml"
    }
    string rootNodeName = "cms:OCMS"
