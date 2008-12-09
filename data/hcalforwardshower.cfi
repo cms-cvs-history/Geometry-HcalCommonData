@@ -4,5 +4,5 @@ es_source = XMLIdealGeometryESSource {
        "Geometry/HcalCommonData/data/hcalforwardmaterial.xml",
        "Geometry/HcalCommonData/data/hcalforwardshower.xml"
    }
-   string rootNodeName = "hcalforwardshower:World"
+   string rootNodeName = "hcalforwardshower:HFWorld"
 }
